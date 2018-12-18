@@ -1,4 +1,4 @@
-# Chapter1 Introduction of Unix/Linux/GNU
+# Chapter1: Introduction of Unix/Linux/GNU
 
 This chapter is introduction of Unix/Linux/GNU. Because of it's too easy, so
 we have not so much introduction.
