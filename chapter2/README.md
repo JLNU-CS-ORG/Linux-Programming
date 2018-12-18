@@ -12,3 +12,12 @@ This script is read with user's input.
 
 ## try_var.sh
 This script just is show some environment variables.
+
+## judge.sh
+This script just show the usage of condition statements.
+
+## loop.sh
+This script show the usage of loop statements.
+
+## trap.sh
+This script describe software interrupt.
